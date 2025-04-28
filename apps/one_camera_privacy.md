@@ -1,5 +1,6 @@
 ---
-layout: none
+title:  "OneCamera Privacy Policy"
+layout: simple
 ---
 # 隐私政策
 
